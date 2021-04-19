@@ -1,2 +1,8 @@
+/home/chanwit/workspace-LSTokenizeLocale/LSYoutubeAPI/src/main/java/com/omniscien/LSYoutubeAPI/caption/Delete.java
 /home/chanwit/workspace-LSTokenizeLocale/LSYoutubeAPI/src/main/java/com/omniscien/LSYoutubeAPI/util/Auth.java
-/home/chanwit/workspace-LSTokenizeLocale/LSYoutubeAPI/src/main/java/com/omniscien/LSYoutubeAPI/upload/Captions.java
+/home/chanwit/workspace-LSTokenizeLocale/LSYoutubeAPI/src/main/java/com/omniscien/LSYoutubeAPI/caption/GetInfo.java
+/home/chanwit/workspace-LSTokenizeLocale/LSYoutubeAPI/src/main/java/com/omniscien/LSYoutubeAPI/util/ReadProp.java
+/home/chanwit/workspace-LSTokenizeLocale/LSYoutubeAPI/src/main/java/com/omniscien/LSYoutubeAPI/caption/Upload.java
+/home/chanwit/workspace-LSTokenizeLocale/LSYoutubeAPI/src/main/java/com/omniscien/LSYoutubeAPI/util/Constant.java
+/home/chanwit/workspace-LSTokenizeLocale/LSYoutubeAPI/src/main/java/com/omniscien/LSYoutubeAPI/caption/Download.java
+/home/chanwit/workspace-LSTokenizeLocale/LSYoutubeAPI/src/main/java/com/omniscien/LSYoutubeAPI/caption/Update.java

@@ -19,5 +19,9 @@ public class Constant {
      * Define a global variable that specifies the caption download format.
      */
     public static final String SRT = "srt";
+    
+    public static final String LOG_4J = "LOG_4J"; 
+    
+    public static final String LOG_PATH = "LOG_PATH";
 
 }
